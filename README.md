@@ -1,0 +1,2 @@
+# staticwebtest
+Test of Cloudstitch
